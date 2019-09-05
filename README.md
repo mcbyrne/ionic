@@ -1,7 +1,3 @@
-
-[![Contact Michael Byrne](https://api.umpyre.com/badge/39049ef6f92147a89c72b0fd0fd30017/badge.svg?width=181&height=60&name=Michael%20Byrne&font_size=14)](invalid public URL/u/39049ef6f92147a89c72b0fd0fd30017)
-
-
 <a href="https://travis-ci.org/driftyco/ionic"><img src="https://travis-ci.org/driftyco/ionic.png?branch=master" data-bindattr-164="164" title="Build Status Images"></a>
 
 The best place to start with Ionic is our [documentation page](http://ionicframework.com/docs/).
